@@ -14,11 +14,19 @@
 
 ## Aktuell
 
-FIXME: wechselnde aktuelle Themen und aktuelle Fragen. 
+Hier stellen wir wechselnde Themen dar, die zur Zeit wichtig sind und die wir aktiv besprechen wollen.
 
-FIXME: zZ Aktuell: "Topics" des Hackathons, Teaser zu den interessantesten Fragen
+2. Partizipationsveranstaltung 10.12.2025: *FIXME: Link*
 
-FIXME: Link Topics
+**Zentrale Grundfragen für die E-Collecting Umsetzungsvarianten**
+
+* Politische Ausgewogenheit (Grundfrage FIXME)
+* Opt-Out für Papierprozess (Grundfrage FIXME)
+* Reihenfolge der Vorlagen in der Darstellung auf einer allfälligen Bundesplattform (Grundfrage FIXME)
+* Darstellung oder Verlinkung von politischer Werbung und Information (Grundfrage FIXME)
+* Sicherheit (Grundfrage FIXME)
+
+Eine umfassende Liste dieser und weiterer Grundfragen findet sich FIXME:Link.
 
 ## Timeline
 
