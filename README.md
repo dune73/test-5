@@ -1,6 +1,6 @@
 # E-Collecting Plattform
 
-[Link](https://github.com/dune73/test-5/README.md#anchor)
+[Link](https://github.com/dune73/test-5/blob/main/README.md#anchor)
 
 ## Einführung zur Plattform
 
