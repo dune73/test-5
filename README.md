@@ -14,17 +14,23 @@
 
 ## Aktuell
 
-FIXME: wechselnde aktuelle Themen und aktuelle Fragen. zZ im Fokus: Lösungsvorschläge des Hackathons
+FIXME: wechselnde aktuelle Themen und aktuelle Fragen. 
+
+FIXME: zZ Aktuell: "Topics" des Hackathons, Teaser zu den interessantesten Fragen
+
+FIXME: Link Topics
 
 ## Timeline
 
-*FIXME: Mermaid chart (?)*
+*FIXME: Mermaid chart (?) (Dargestellt werden sollen die vergangenen 12 Monate, der aktuelle Stand und ein knapper Ausblick in die Zukunft)*
+
+Eine längere Timeline mit weiter zurück liegenden Ereignissen findet sich FIXME:Link.
 
 ## Dokumente und Protokolle
 
-*FIXME: Liste mit Protokollen und Dokumenten, grob gegliedert*
-
 ### Dokumente und Protokolle des partizipativen Prozesses E-Collecting
+
+*FIXME: Liste mit Protokollen und Dokumenten, grob gegliedert: Postulatsbericht, Eröffnungsevent, etc. (Total 5-10 Einträge)*
 
 ### Umfassende Liste mit Dokumenten und Protokollen
 
