@@ -16,7 +16,7 @@
 
 Hier stellen wir wechselnde Themen dar, die zur Zeit wichtig sind und die wir aktiv besprechen wollen.
 
-2. Partizipationsveranstaltung 10.12.2025: *FIXME: Link*
+Die 2. Partizipationsveranstaltung 10.12.2025: *FIXME: Link*
 
 **Zentrale Grundfragen für die E-Collecting Umsetzungsvarianten**
 
