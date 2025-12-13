@@ -1,3 +1,23 @@
+_[Deutsche Version](#d0-0)_
+
+# Français : Instructions relatives à la plateforme E-Collecting
+
+**Table des matières**
+
+* [Quelle est cette plateforme?](#f1-0)
+* [Lecture des discussions](#f2-0)
+* [Créer un compte](#f3-0)
+* [Participer activement aux discussions](#f4-0)
+* [Être informés de nouveaux commentaires](#f5-0)
+
+
+## <a name="f1-0">Quelle est cette plateforme?</a>
+
+La plateforme est basée sur GitHub, une plateforme permettant de rédiger, discuter et améliorer ensemble des textes, mais aussi des logiciels.
+
+
+## <a name="f2-0">Lecture des discussions</a>
+
 Les discussions écrites sur le sujet de l’E-Collecting ont lieu dans le cadre de ce que l'on appelle des « Issues ».
 
 **Vous trouvez les « Issues » en suivant les étapes ci-dessous :**
