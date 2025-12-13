@@ -1,6 +1,6 @@
 # E-Collecting Plattform
 
-[Link](https://github.com/dune73/test-5/blob/main/README.md?#anchor)
+
 
 ## Einführung zur Plattform
 
@@ -13,6 +13,9 @@
   * Thematischer Zugang
   * Labeling (?)
 * FIXME: Mehrsprachigkeit
+
+[create an anchor](#Aktuell)
+
 
 ## Aktuell
 
@@ -57,6 +60,8 @@ Zukünftig werden verschiedene Links von hier direkt in diese Themenbereiche fü
 *In Arbeit*
 
 <h3 #myanchor>Testtitel</h3>
+
+
 
 <a href="#myanchor>
 
