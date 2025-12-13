@@ -2,67 +2,19 @@
 
 * [Link to "Aktuell"](#Aktuell)
 * [Link to "Dokumente und Protokolle"](#Dokumente-und-Protokolle)
+* [Link to "Anderer Titel"](#1-1-anderer-titel)
 
 
-## Einführung zur Plattform
+    How can I link a header with numbers? Example: # 1.1 Header
 
-* FIXME: Was ist E-Collecting, was ist der partizipative Prozess, weiterführende Links
-* FIXME: Was ist diese Plattform, wie kann man sich einbringen, weiterführende Links
-* FIXME: Knappe Auflistung der Abschnitte auf dieser Startseite
-  * Aktuelles
-  * Timeline
-  * Protokolle und Dokumente
-  * Thematischer Zugang
-  * Labeling (?)
-* FIXME: Mehrsprachigkeit
-
-
+Surround your header text with a named anchor link (e.g. <a name="1-1-header">1.1 Header</a>) and link to that.
 
 ## Aktuell
 
-Hier stellen wir wechselnde Themen dar, die zur Zeit wichtig sind und die wir aktiv besprechen wollen.
-
-Die 2. Partizipationsveranstaltung 10.12.2025: *FIXME: Link*
-
-**Zentrale Grundfragen für die E-Collecting Umsetzungsvarianten**
-
-* Politische Ausgewogenheit (Grundfrage FIXME)
-* Opt-Out für Papierprozess (Grundfrage FIXME)
-* Reihenfolge der Vorlagen in der Darstellung auf einer allfälligen Bundesplattform (Grundfrage FIXME)
-* Darstellung oder Verlinkung von politischer Werbung und Information (Grundfrage FIXME)
-* Sicherheit (Grundfrage FIXME)
-
-Eine umfassende Liste dieser und weiterer Grundfragen findet sich FIXME:Link.
-
-## Timeline
-
-*FIXME: Mermaid chart (?) (Dargestellt werden sollen die vergangenen 12 Monate, der aktuelle Stand und ein knapper Ausblick in die Zukunft)*
-
-Eine längere Timeline mit weiter zurück liegenden Ereignissen findet sich FIXME:Link.
+...
 
 ## Dokumente und Protokolle
 
-### Dokumente und Protokolle des partizipativen Prozesses E-Collecting
+...
 
-*FIXME: Liste mit Protokollen und Dokumenten, grob gegliedert: Postulatsbericht, Eröffnungsevent, etc. (Total 5-10 Einträge)*
-
-### Umfassende Liste mit Dokumenten und Protokollen
-
-**Ein umfassende Liste mit Dokumenten und Protokollen findet sich unter folgenden Link.**
-
-FIXME:Link komplette Liste (inkl. Ratsprotokolle, Motionen, etc.)
-
-## Verschiedene thematische Zugänge
-
-Der E-Collecting Versuchsbetrieb will Fragen in verschiedenen Themenbereichen klären. Dazu zählen namentlich technische, organisatorische, rechtliche und staatspolitische Fragen.
-
-Zukünftig werden verschiedene Links von hier direkt in diese Themenbereiche führen.
-
-*In Arbeit*
-
-<h3 #myanchor>Testtitel</h3>
-
-
-
-<a href="#myanchor>
-
+## <a name="1-1-anderer-titel">1.1 Anderer Titel</a>
