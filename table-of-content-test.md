@@ -1,8 +1,9 @@
-_[Deutsche Version](#deutsch--e-collecting-plattform)_
+_[Deutsche Version](#d0-0)_
 
 # Français : Plateforme E-Collecting
 
 **Table des matières**
+
 * [Introduction à la platforme](#f1-0)
 * [Actualités](#f2-0)
 * [Nécessité de discuter des variantes de mise en œuvre de l'E-Collecting](#f3-0)
@@ -10,6 +11,7 @@ _[Deutsche Version](#deutsch--e-collecting-plattform)_
 * [Documentation](#f5-0)
   * [Document du processus participatif à l’E-Collecting](#f5-1)
   * [Autres documents sur l’E-Collecting](#f5-2)
+
 
 ## <a name="f1-0">Introduction à la plateforme</a>
 
@@ -67,18 +69,20 @@ Une liste complète des documents est disponible dans un fichier séparé. [List
 
 
 
+# <a name="d0-0">Deutsch: E-Collecting-Plattform</a>
+
+**Inhaltsverzeichnis**
+
+* [Einführung zur Plattform](#d1-0)
+* [Aktuell](#d2-0)
+* [Diskussionbedarf für die E-Collecting Umsetzungsvarianten](#d3-0)
+* [Timeline](#d4-0)
+* [Dokumente](#d5-0)
+  * [Dokumente des partizipativen Prozesses E-Collecting](#d5-1)
+  * [Weitere Dokumente zu E-Collecting](#d5-2)
 
 
-
-
-
-
-
-
-
-# <a name="deutsch--e-collecting-plattform">Deutsch: E-Collecting-Plattform</a>
-
-## Einführung zur Plattform
+## <a name="d1-0">Einführung zur Plattform</a>
 
 E-Collecting bezeichnet ein digitales Verfahren, das von der Unterstützung eines Volksbegehrens durch die eigene Unterschrift bis zur Zählung der eingegangenen Unterschriften reicht.
 
@@ -98,14 +102,15 @@ deshalb eine separate [Anleitung zur Verfügung](docs/admin/github-tutorial.md).
 
 Die Bundeskanzlei informiert mit ihrem E-Collecting Newsletter regelmässig über Neuigkeiten zum partizipativen Prozess. [Registration](https://www.bk.admin.ch/bk/de/home/politische-rechte/e-collecting/newsletter.html)
 
-## Aktuell
+
+## <a name="d2-0">Aktuell</a>
 
 Die 2. Partizipationsveranstaltung 10.12.2025: [Teams-Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmFmNThmMTEtNjY3OS00YTMxLTg5ODgtNGI2NzdkM2EyNzk5%40thread.v2/0?context=%7b%22Tid%22%3a%226ae27add-8276-4a38-88c1-3a9c1f973767%22%2c%22Oid%22%3a%227887f44d-8227-43b2-9c01-25317146e9e3%22%7d)
 
 [Hier](https://www.bk.admin.ch/bk/de/home/politische-rechte/e-collecting/partizipativer_prozess.html) der Link zur Präsentation der Veranstaltung.
 
 
-## Diskussionbedarf für die E-Collecting Umsetzungsvarianten**
+## <a name="d3-0">Diskussionbedarf für die E-Collecting Umsetzungsvarianten</a>
 
 Zur Zeit laufen die Diskussionen zu folgenden Themen:
 
@@ -115,15 +120,15 @@ Zur Zeit laufen die Diskussionen zu folgenden Themen:
 Eine umfassende Liste dieser und weiterer geplanter Diskussionen wird in den nächsten Tagen publiziert werden.
 
 
-## Timeline
+## <a name="d4-0">Timeline</a>
 
 ![Grafische Darstellung der Timeline mit den Stationen Eröffnungsevent, Hackathon, 2. Online-Veranstaltung, Bilanz schriftlicher Dialog, weiterer partizipativer Prozess und Variantenentscheid Bundeskanzler](docs/timeline/timeline.png)
 
 _Bildbeschreibung: Grafische Darstellung der Timeline mit den Stationen Eröffnungsevent, Hackathon, 2. Online-Veranstaltung, Bilanz schriftlicher Dialog, weiterer partizipativer Prozess und Variantenentscheid Bundeskanzler_
 
-## Dokumente
+## <a name="d5-0">Dokumente</a>
 
-### Dokumente des partizipativen Prozesses E-Collecting
+### <a name="d5-1">Dokumente des partizipativen Prozesses E-Collecting</a>
 
 * Postulatsbericht E-Collecting (2024-11-20): [PDF]((https://www.bk.admin.ch/dam/bk/fr/dokumente/pore/e-collecting/rapport%20en%20r%C3%A9ponse%20au%20postulat%20e-collecting.pdf.download.pdf/rapport%20en%20r%C3%A9ponse%20au%20postulat%20e-collecting.pdf))
 * Teilrevision des Bundesgesetzes über die politischen Recht mit neuer E-Collecting Versuchsnorm (2025-04-30): [Webseite](https://www.news.admin.ch/de/newnsb/oAsAOWHCOpvBMZavKcq_e)
@@ -131,7 +136,7 @@ _Bildbeschreibung: Grafische Darstellung der Timeline mit den Stationen Eröffnu
 * Leitfaden für Teilnahme am E-Collecting Hackathon (2025-10-23): [PDF](https://www.bk.admin.ch/dam/bk/de/dokumente/pore/E-Collecting/hackathon2025/E-Collecting%20Hackathon%20Leitfaden.pdf.download.pdf/E-Collecting%20Hackathon%20Leitfaden.pdf)
 * E-Collecting Hackathon mit Lösungsvarianten (2025-10-31/2025-11-01): [Webseite](https://www.github.com/swiss/e-collecting-hackathon)
 
-### Weitere Dokumente zu E-Collecting
+### <a name="d5-2">Weitere Dokumente zu E-Collecting</a>
 
 Ein umfassenderess Verzeichnis mit Dokumenten findet sich auf einer separaten [Liste](docs/admin/document-list.md).
 
