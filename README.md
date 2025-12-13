@@ -1,5 +1,7 @@
 # E-Collecting Plattform
 
+[create an anchor](#Aktuell)
+
 
 
 ## Einführung zur Plattform
@@ -14,7 +16,6 @@
   * Labeling (?)
 * FIXME: Mehrsprachigkeit
 
-[create an anchor](#Aktuell)
 
 
 ## Aktuell
