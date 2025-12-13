@@ -1,7 +1,7 @@
 # E-Collecting Plattform
 
-[create an anchor](#Aktuell)
-
+* [Link to "Aktuell"](#Aktuell)
+* [Link to "Dokumente und Protokolle"](#Dokumente-und-Protokolle)
 
 
 ## Einführung zur Plattform
