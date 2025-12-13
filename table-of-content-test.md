@@ -3,13 +3,13 @@ _[Deutsche Version](#deutsch--e-collecting-plattform)_
 # Français : Plateforme E-Collecting
 
 **Table des matières**
-* [Introduction à la platforme](#)
-* [Actualités](#)
-* [Nécessité de discuter des variantes de mise en œuvre de l'E-Collecting](#)
-* [Chronologie](#)
-* [Documentation](#)
-  * [Document du processus participatif à l’E-Collecting](#)
-  * [Autres documents sur l’E-Collecting](#)
+* [Introduction à la platforme](#f1-0)
+* [Actualités](#f2-0)
+* [Nécessité de discuter des variantes de mise en œuvre de l'E-Collecting](#f3-0)
+* [Chronologie](#f4-0)
+* [Documentation](#f5-0)
+  * [Document du processus participatif à l’E-Collecting](#f5-1)
+  * [Autres documents sur l’E-Collecting](#f5-2)
 
 ## <a name="f1-0">Introduction à la plateforme</a>
 
