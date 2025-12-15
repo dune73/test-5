@@ -4,7 +4,7 @@
 * **Transcription IA / KI Transkription**
 
 
-## <a name="0-00"> Folini Christian BK   0-00
+### <a name="0-00"> Folini Christian BK   0:00
 
 Guten Morgen miteinander.  Bonjour à tous et à tous. Je vous accueille à le deuxième événement du processus participatif sur la récolte des signatures.  Wir sprechen heute zum zweiten Mal über E-Collecting zusammen und ich begrüße Sie zu dieser Veranstaltung.
 Mein Name ist Christian Folini. Mon nom est Christian Follini, je suis le modérateur du processus participatif e-collecting et voilà notre agenda d'aujourd'hui.
@@ -36,7 +36,7 @@ Gut, so viel zur Barrierefreiheit. Wir werden dann auch beim Hackathon noch mal 
 Ich geh weiter und übergebe an Natalie Schnelle, die hier bei der Bundeskanzlei neu angefangen hat zu arbeiten im Projekt E-Collecting. Sie ist Teilprojektleiterin für den partizipativen Prozess.
 Bitte, Natalie.
 
-## <a name="5-32"> Schnelle Natalie BK   5-32
+### <a name="5-32"> Schnelle Natalie BK   5:32
 Ganz genau, einfach ein kurzes Update zur politischen Situation. Wir sitzen ja alle hier, weil im Ständerat als auch im Nationalrat 2024 und 2025 für Motionen gestimmt wurde, um.
 Einen Versuchsbetrieb für E-Collecting zu starten. Somit hat.
 Der Bundesrat hat den Auftrag erhalten, ein Projekt in diese Richtung zu starten. Deshalb sind unter anderem ich und Herr Follini hier in dieser Runde und um die Grundlage für Versuche
@@ -44,11 +44,11 @@ zu kreieren, braucht es aber auch einer Änderung des Bundesgesetzes über die p
 Enthalten ist und das Ganze wird nun auch voraussichtlich in der Frühjahrssession nächstes Jahr im Ständerat beraten und abgestimmt. Und das deckt sich auch mit den organisatorischen Planungen bei uns in der Projektorganisation.
 In Richtung Variantenentscheid: Ich übergebe zurück an Herrn Folini.
 
-## <a name="6-52"> Folini Christian BK   6-52
+### <a name="6-52"> Folini Christian BK   6:52
 Danke sehr, Natalie. Wir kommen zu den Neuigkeiten aus den Kantonen. Auch da hat sich etwas bewegt. Zunächst zum Kanton Zürich, wir hören dazu Stefan Ziegler vom statistischen Amt des Kantons Zürich. In Zürich ist nicht die
 Staatskanzlei mit der durchführenden Abstimmung über allen den Auftrag, sondern das Statistische Amt und dort Stefan Ziegler. Bitte, Stefan.
 
-## <a name="7-18"> Stephan Ziegler   7-18
+### <a name="7-18"> Stephan Ziegler   7:18
 Vielen Dank, Christian.
 Ja, im Kanton Zürich hat der Kantonsrat Anfang Dezember ein Postulat zur Einführung von E-Collecting gut geheißen und überwiesen.
 Der Regierungsabendium hat aufgefordert, zu prüfen und zu berichten,
@@ -65,13 +65,13 @@ Weil eine Motion, die war 2019, wurde die überwiesen, die wurde damals noch abg
 weil eben die organisatorischen rechtlichen Voraussetzungen eben auch auf Ebene Bund gefehlt haben oder hätten.
 Dies ist nun anders und ja, wir freuen uns hier auf die Zusammenarbeit mit Bund und anderen Stellen.
 
-## <a name="8-58"> Folini Christian BK   8-58
+### <a name="8-58"> Folini Christian BK   8:58
 Vielen Dank, Stefan. Gibt es aus dem Publikum Fragen dazu?
 Sehe nichts im Chat. Keine Wortmeldung. Es gibt niemand die Hand. Dann geben wir.
 Gehen wir weiter. Es gibt auch in St. Gallen Neuigkeiten. Bereits an der Eröffnungsveranstaltung im August hatte St. Gallen ihr E-Collecting-System vorgestellt. St. Gallen wird 2026 auf kantonaler Ebene
 In Produktion gehen, also dieses bereits gebaute E-Collecting-System zum ersten Mal einsetzen und Sebastian Fuss bringt uns da ein Update. Bitte, Sebastian.
 
-## <a name="9-41"> Fust Sebastian SK-DfPR   9-41
+### <a name="9-41"> Fust Sebastian SK-DfPR   9:41
 Vielen Dank, Christian.
 Genau, wir sind ja schon weit fortgeschritten mit der Entwicklung unserer Plattform.
 Seit Ende August läuft auch ein Privates Backboundy-Programm.
@@ -80,7 +80,7 @@ Und seit Montag sind wir jetzt in der Public Backboundy-Phase.
 Sprich, der Quellcode ist nun für alle öffentlich zugänglich und alle Interessierten können das System auch auf Sicherheitslücken hin überprüfen.
 Genau, die Informationen dazu finden Sie unter www.abraxas.ch slash Backboundy.
 
-## <a name="10-24"> Folini Christian BK   10:24
+### <a name="10-24"> Folini Christian BK   10:24
 Vielen Dank, Sebastian. Wenn du mir erlaubst, ich würde dann auch gerne 2 technische Bemerkungen machen. Einerseits ist nicht nur die Bug Bounty Plattform selbst, sondern auch der kantonale Login, die dem Bug Bounty untersteht. Also nicht nur E-Collecting System, sondern auch der Login dazu.
 Der separat ist, das tut der Sicherheit sehr gut. Zweitens die Bounties. Also, wenn man einen Fehler findet, dann werden, glaube ich, Sebastian 30000 Franken versprochen. Das ist ein.
 Genau, also nicht der der kleinste Fehler wird nicht 30000 bringen, aber es ist ein erheblicher Betrag. Das ist kein kleines Bug-Bounty-Programm mehr. Ich finde es fit, halte ich für bemerkenswert. Vielen Dank. Gibt es weitere Bemerkungen oder Fragen dazu?
@@ -109,11 +109,11 @@ Q 1 Q 2 2026 ist aber nicht in Stein gemeißelt.
 Gut, gibt es hier zu Fragen? Ich sehe im Chat, haben wir den Link auf das Bergpanty-Programm aus Sankt Gallen. Genau, gibt es Fragen zum Zeitplan oder bereits jetzt zur Dialogplattform?
 Ja, Amina Bouzar, bitte.
 
-## <a name="16-10"> Bouzar Amina, DS6   16:10
+### <a name="16-10"> Bouzar Amina, DS6   16:10
 Ja, merci vil Mou.
 Ich hätte eine Frage, und zwar heisst das jetzt, wie das Ziel ist, in diesem Dialog nochmal diese Topics genauer anzuschauen und dass man dann jetzt dort, wo steht weiter partizipativer Prozess, dort es dann wirklich ins Lösungsdenken geht?
 
-## <a name="16-32"> Folini Christian BK   16:32
+### <a name="16-32"> Folini Christian BK   16:32
 OK, ja, danke für diese Frage, das kann ich dir genauer erklären. Wir sind jetzt in der zweiten Onlineveranstaltung und nachfolgend heute, also jetzt hier in der Veranstaltung, werden wir schon diskutieren. Ich hoffe auf Beteiligung
 Und im Nachgang dazu, bis Ende Februar, werden wir diskutieren. Die ISD ist Ende Februar.
 Varianten vorschlagen zu können.
@@ -122,10 +122,10 @@ Und je nach Feedback wird das dann Richtung Bundeskanzler gehen und er wird dann
 Es gibt eine Bilanz, darauf kann man dann reagieren. Es gibt dann ein weiteres Online-Event, wo man diese Varianten weiter diskutieren kann und dann kommt es zum Variantenentscheid. Die Diskussionen, die wir führen werden, sind einerseits die dir bekannten Themen des Hackathons.
 Aber auch andere Fragen, die wir noch gar nicht diskutiert haben. Oder ich komme später dazu. Fragen, die wir im Hackathon diskutieren wollten, aber unserer Meinung nach wurde das zu wenig bearbeitet. Also, es gab Themen, die wir an den Hackathon gespielt haben, und wir haben praktisch keine Antworten dazu gekriegt. Das ist kein Problem oder kein Fehler des Hackathons. Das bedeutet einfach, wir müssen das Thema hier noch mal aufnehmen.
 
-## <a name="18-21"> Bouzar Amina, DS6   18:21
+### <a name="18-21"> Bouzar Amina, DS6   18:21
 Danke für die Ausführung
 
-## <a name="18-25"> Folini Christian BK   18:25
+### <a name="18-25"> Folini Christian BK   18:25
 Gut, wir gehen weiter, wenn keine weitere Frage mehr ist.
 Alors, voilà, le Hackathon à la fin d'octobre, début de novembre.
 Voici quelques photos, quelques impression de ce Hackathon à Bern près du palais fédérale, dans le Bernerhof.
@@ -195,7 +195,7 @@ Genau, wir haben einzelne Fragen noch gar nicht eingespielt in den Hacketen, ebe
 das müssen wir also noch diskutieren. Der Hackathon hat konnte also nicht auf alles schon eine Antwort liefern. Natürlich nicht, ging ja auch nur 2 Tage. Einzelne Fragen werden uns also weiter begleiten, andere werden Sie zum ersten Mal hören.
 
 
-## <a name="31-53"> Folini Christian BK   31:53
+### <a name="31-53"> Folini Christian BK   31:53
 Ich komme zum ersten dieser Grundfrage: Wo haben wir Diskussionsbedarf?
 Ist die Darstellung von laufenden Sammlungen.
 Das ist etwas, was unscheinbar aussieht.
@@ -238,45 +238,45 @@ Von Marcel Eichmüller: "Ich lese es einfach vor: Wie üblich steckt der Teufel 
 keine E-Collecting-Plattform des Bundes wäre sehr schade. Genau, also kein Menü zu haben, keine Übersicht, es ist schade, denn der Bund könnte gegenüber den Stimmberechtigten eine Art von Governance-Schutzrolle übernehmen. Genau, Marcel Eichmöcher, möchten Sie selbst
 Noch etwas zusätzlich dazu sagen oder gibt es ist das schon eine ganze Wortmeldung?
 
-## <a name="40-50"> Marcel Eichmüller   40:50
+### <a name="40-50"> Marcel Eichmüller   40:50
 Nein, ich kann gerne noch ausführen.  Ich würde es natürlich begrüssen, wenn von Bundesseite her so eine Plattform zur Verfügung gestellt wird, weil eben so ein Schutzmechanismus oder nicht, dass jeder auf irgendwelchen wilden Plattformen selbst Initiativen lancieren kann, wo man dann nicht weiss, handelt es sich hier wirklich um eine Datensammlungsplattform, wo kein anderer Grund dahinter steht oder sind das wirklich Unterschrift Sammlungen?  Und das müsste meiner Meinung nach schon vom Bund her irgendwie auch so ein wenig schützend, mit einer schützenden Hand begleitet werden eigentlich, so eine E-Collecting Thematik.
 
-## <a name="41-33"> Folini Christian BK   41:33
+### <a name="41-33"> Folini Christian BK   41:33
 Ja, also ich, ich, ich sehe dieses Desiderat völlig. Es ist klar, dass das ein Wunsch ist und auch ein Bedürfnis. Wir werden sehen, wie es sich befriedigen lässt oder eben nicht. Stefan Ziegler möchte sich melden.
 
-## <a name="41-50"> Stephan Ziegler   41:50
+### <a name="41-50"> Stephan Ziegler   41:50
 Ja, vielen Dank, Christian, für die Ausführungen.  Ich finde es auch sehr wichtig, dass wir darüber reden.  Also, ich sehe den Punkt, das ist ein wichtiger Punkt.  Ich möchte aber doch, ich finde, wir sollten unterscheiden zwischen zwei grundsätzlichen Fragen.  Die eine Frage ist die Frage zu den referendumsfähigen Beschlüssen.  Dass wir, wie wir die Initiativen anzeigen oder Referenden, die letztlich gestartet worden sind, auch wenn es hier kein Komitee braucht, eine Frage, aber dass wir überall sämtliche referendumsfähigen Beschlüsse auf dieser E-Collecting-Plattform publizieren, fände ich zum aktuellen Zeitpunkt nicht nötig und, wie gesagt, bringt weitere Probleme mit sich, dass der Bund, die öffentlichen Erwaltungen, die Kantone, die referendumsfähigen Beschlüsse irgendwo anzeigen, das steht außer Frage, aber diese Verknüpfung zwischen E-Collecting-Plattform und sämtlichen referendumsfähigen Beschlüssen leistet genau diesem, sag ich mal, auch diesem Szenario ein bisschen Vorschub, dass es dann irgendwann zum politischen Systemkollaps führen könnte und ist eben auch ganz anders als heute.  In diesem Sinne finde ich, das geht wie zu weit.  Man könnte vielleicht sich überlegen, dass man sagt, na gut, es geht in die Richtung, ein bisschen ernst zu nehmen in der Referendumsammlung oder eben auch in Richtung Sabotage, dass man sagt, ja, wenn Referenden gestartet werden und man Kenntnis hat oder wenn eine Gruppierung, auch wenn sie rechtlich nicht als Komitee formieren muss, wenn eine Gruppierung ein Referendum startet, kann sie das sozusagen auch mit gewissen Formalien, die dann rechtlich festzulegen wären, auf dieser E-Collecting-Plattform einbringen, aber keine automatische, sozusagen eine Schnittstelle zum Parlament, wo dann alle referendumsfähigen Beschlüsse aufgeführt werden würden, so als Zwischen- Lösung.  Aber wie gesagt, ich habe hier große Bedenken, dass wenn man alles aufführt, dass es dann eben eigentlich auch die ganze Dynamik von Sammlungen ändern könnte.
 
-## <a name="43-58"> Folini Christian BK   43:58
+### <a name="43-58"> Folini Christian BK   43:58
 Danke, Stefan. Du hast jetzt, wenn ich dich richtig verstanden habe, bei den Referenten würdest du quasi kategorisieren, ab einem, nennen wir das, Schwellwert wird sie publiziert werden oder wenn sie auf sich aufmerksam macht, bei den Initiativen aber sämtliche.
 Hab ich das richtig verstanden?
 
-## <a name="44-17"> Stephan Ziegler   44:17
+### <a name="44-17"> Stephan Ziegler   44:17
 Ja, weil bei Initiativen in diesem Sinne, da hat man ein Komitee, die wurden ja auch schon angemeldet, die wurden geprüft, insofern scheint mir das hier schwierig, wenn man eine Auswahl treffen müsste und wenn eine E-Collecting Plattform die Initiativen, die im Umlauf sind, nicht anzeigt, dann darf man sich schon erfragen, erfüllt sie ihren Zweck?  Da finde ich es dann schwieriger zu argumentieren, auch wenn natürlich immer einige Initiativen man schaue nur schnell auf die Bundeskanzlei Webseite im Umlauf sind.  Und die chronologische, ja, aber diese Überlegungen sind berechtigt und ich werde wahrscheinlich dann umgekehrt chronologisch vorgehen.
 
-## <a name="44-50"> Folini Christian BK   44:50
+### <a name="44-50"> Folini Christian BK   44:50
 Umgekehrt, chronologisch. OK, guter Hinweis. Ja, ja, nehmen wir mit. Moritz Zaugg von Bern hat sich gemeldet, aber ich möchte gerne das Wort an Sebastian Fust geben. Wie habt ihr das in Sankt Gallen gelöst?
 
-## <a name="45-14"> Fust Sebastian SK-DfPR   45:14
+### <a name="45-14"> Fust Sebastian SK-DfPR   45:14
 Also bezüglich der Referenden, wir werden alle referendumsfähigen Erlasse publizieren, aber dagegen muss ja dann noch eine Sammlung eingerichtet werden, sprich, man kann nicht einfach auf unsere voreingerichteten Erlasse eine Unterschrift abgeben elektronisch, sondern ein Komitee muss eine Sammlung einrichten dazu und die muss dann auch freigegeben werden.  Das ist auch als Ergänzung zu den Initiativen.  Dort ist dasselbe, also die Komitees, wir haben ja quasi den hybriden Weg, also die Fixanteilslösung, es gibt immer noch die Unterschriftensammlung auf der Strasse, die Komitees bei Initiativen können aber den ganzen Prozess über die Plattform laufen lassen, sprich auch die Zulässigkeitsprüfung, die im Vorherein durch die Regierung getätigt werden muss, aber es muss alles von den Komitees aktiv eingerichtet werden.
 
-## <a name="46-16"> Folini Christian BK   46:16
+### <a name="46-16"> Folini Christian BK   46:16
 Sehr gut, dann gebe ich an Moritz Zaugg.
 
-## <a name="46-18"> Zaugg Moritz, STA-ARP-PR   46:18
+### <a name="46-18"> Zaugg Moritz, STA-ARP-PR   46:18
 Ja, vielen Dank. Also, ich bin auch sehr skeptisch mit einer Anzeige, bei einer Anzeige von sämtlichen möglichen Volksbegehren. Also, mit E-Collecting werden wir ohnehin schon die Hürde senken, dass es überhaupt möglich ist, eine Unterschrift
 zu leisten bei einer beim Volksbegehren, wenn wir da noch zusätzlich sämtliche Volksbegehren aufführen werden oder auch sämtliche referendumsfähige Geschäfte man wirklich sich da durchklicken kann, dann wird es wirklich zu einer.
 Klickdemokratie und und wir riskieren, dass also 50000 Unterschriften sind nicht so schwierig zu sammeln und dann riskieren wir wirklich auch, dass das gleiche passiert, wie auch schon. Es gab schon Beispiele von Holland oder so, wo in kurzer Zeit man wirklich einfach im Internet diese
 diese Unterschriften zusammen sammeln kann und damit blockieren wir schlussendlich dann sämtliche Geschäfte vom nationalen Ständerat. Das würde wirklich davon abraten, das zu leicht zu machen, sondern das Sammeln ist ja auch ein.
 Teil von der Aufgabe vom Komitee und das soll schon noch eine gewisse Hürde darstellen.
 
-## <a name="47-33"> Folini Christian BK   47:33
+### <a name="47-33"> Folini Christian BK   47:33
 Mhm, vielen Dank, Moritz. Ich gebe nochmal zurück zu Marcel Eichmüller, die Frage gestellt hat.
 
-## <a name="47-41"> Marcel Eichmüller   47:41
+### <a name="47-41"> Marcel Eichmüller   47:41
 Gerne, danke.  Ich möchte nochmals in dem Sinne hervorheben, dass es ja ein Startmal ist.  Ich würde halt wirklich beliebt machen wollen, man startet mit einer zentralen Plattform und man muss ja im digitalen Zeitalter sowieso viel agiler sein, wieder Änderungen, Anpassungen vorzunehmen, in der heutigen Zeit sich auf 20, 30 Jahre hinaus für etwas zu entscheiden.  Das ist so dynamisch mittlerweile.  Und ich sage einfach, man muss lernen, anfangen mal und dann schauen, wie das Ganze wächst.  Und daher finde ich auch so, wie es die St.  Galler machen, es muss dort auf der zentralen Plattform registriert werden und das sollte für Bundesinitiativen oder Referendum Dinge auf Bundesebene auch so gemacht werden.  Und man schaut dann, wird das wirklich so kommen, wie jetzt das Szenarien schon an die Wand gemalt werden oder muss man nicht einfach irgendwo mal den Mut haben und sagen, so jetzt hier starten wir, aber das heisst nicht, dass wir in 30 Jahren immer noch da sind oder vielleicht müssen wir schon nach zwei, drei Jahren mal über die Bücher und sagen, irgendetwas passt da nicht.
 
-## <a name="48-53"> Folini Christian BK   48:53
+### <a name="48-53"> Folini Christian BK   48:53
 Vielen Dank.
 Also, es ist, Sie sind gleich eingestiegen in die Diskussion. Also, das freut uns natürlich und ich glaube, es jetzt wurde auch klar, weshalb diese Frage wirklich wichtig ist. Das ist, da können wir keinen leichtfertigen Entscheid fällen.
 Wir müssen das wirklich diskutieren und die verschiedenen Wortmeldungen haben für mich jetzt auch das Problem sehr schön umrissen. Ich glaube, man merkt auch, die Mitarbeitenden, also die Mitarbeitenden der Staatskanzlei der Kantone, sind skeptisch.
@@ -286,7 +286,7 @@ Yeah.
 Wenn es hier keine weiteren neuen Bemerkungen zum Thema gibt, gehe ich weiter.
 
 
-## <a name="50-04"> Folini Christian BK   50:04
+### <a name="50-04"> Folini Christian BK   50:04
 Zur nächsten  Grundfrage.
 ist ziemlich eng verwandt mit der ersten politische Werbung für die Sammlung. Also Sie können die Reihenfolge in einem Menü darstellen, das haben wir jetzt diskutiert. Dann kommen Sie zur Vorlage und
 Es liegt auf der Hand, also die die Vorlage, die Volksinitiative muss im Wortlaut des Verfassungs auf Bundesebene des Verfassungsvorschlages formuliert sein. Das steht da, was steht sonst noch da?
@@ -316,53 +316,53 @@ Ich möchte jetzt auch hier zu diesem Thema.
 An Sie zurückspielen. Ich rufe Sie auf, hier Ihre Meinung kundzutun. Sie überlegen sich da was. Was haben Sie für Ideen bei diesem Thema? Sie müssen aber die des des Sidé des Propositions apropos set questions.
 Ich sehe nochmals Marcel Eichmüller mit einer Frage im Chat. Marcel, möchtest du die stellen?
 
-## <a name="55-17"> Marcel Eichmüller   55:17
+### <a name="55-17"> Marcel Eichmüller   55:17
 Ja, wie geschrieben, St.  Gallen ist ja da schon ein Schritt weiter eigentlich und da wäre natürlich interessant auch von Ihnen wieder zu erfahren, was Sie sich dazu für Überlegungen gemacht haben, wie Sie das umsetzen oder angegangen sind mit der politischen Werbung.
 
-## <a name="55-32"> Folini Christian BK   55:32
+### <a name="55-32"> Folini Christian BK   55:32
 Sebastian Fust.
 
-## <a name="55-33"> Fust Sebastian SK-DfPR   55:33
+### <a name="55-33"> Fust Sebastian SK-DfPR   55:33
 Ja, sehr gerne.  Also, wir haben auf der Plattform müssen die Komitees gewisse Pflichtfelder ausfüllen, wie eine Bezeichnung, die Angaben zum Komitee und so weiter.  Dann gibt es aber auch optionale Felder, wie eine Begründung.  Sie können auch ein Bild und ein Logo der Sammlung auf die Plattform stellen.  Da geht es vor allem um die Unterschriftenliste, die automatisch generiert werden kann, dass die auch bebildert sein kann.  Es gibt Disclaimers mit rechtlichen Vorgaben, dass es uns erlaubt, Bilder zu löschen.  Die müssen auch von uns zuerst freigegeben werden.  Und gerade auch bei Initiativen, wo der ganze Prozess mit der Zulässigkeitsprüfung noch besteht, also wenn ein Komitee etwas einrichtet und dann auf der Plattform die Zulässigkeitsprüfung verlangt, dann geht das ja in die Regierung und dann sind die Felder gesperrt quasi, die Angaben, die die Komitees gemacht haben und die können danach auch nicht mehr verändert werden.  Wenn dann der Zulässigkeitsbeschluss von der Regierung kommt und es kann es sein, dass es zulässig unter Auflagen ist, dass gewisse Angaben noch angepasst werden müssen, dann können wir einzelne Felder wieder freigeben.  Bevor das Ganze aber dann für die Sammlung freigeschaltet wird, haben wir nochmal einen Blick darauf.
 
-## <a name="57-00"> Marcel Eichmüller   57:00
+### <a name="57-00"> Marcel Eichmüller   57:00
 David Buchmann hat auch geschrieben, die Bundeskanzlei bräuchte dann eine Redaktion, also auch ihr in St. Gallen müsst euch redaktionell in dem Sinne verstärken, gehe ich davon aus, oder jetzt auch mit den Ausführungen, die du gemacht hast?
 
-## <a name="57-16"> Fust Sebastian SK-DfPR   57:16
+### <a name="57-16"> Fust Sebastian SK-DfPR   57:16
 Das sind Prozesse, die wir schon jetzt eigentlich machen müssen, es verlagert sich dann einfach auf die E-Collecting Plattform und generell noch ein Input zum Thema, das haben die uns auch sehr häufig gemacht, man muss einfach schauen, dass die Prozesse vom physischen Unterschriften sammeln und vom elektronischen nicht so stark auseinander laufen, weil heute hat man gerade auch bei Referendien hat man die Kontrolle eigentlich überhaupt nicht, also das sind immer die Komitees müssen sich dann gegen aussen verantworten, was sie auf ihren Unterschriften Listen haben, also diese ganze Verantwortung kann man dann nicht einfach auf die Staatskanzleien schieben, weil Stand heute ist es so, dass es null Kontrolle gibt und wenn mal etwas im Umlauf ist, was nicht passt, dann wirken die Medien und dann müssen sie sich dann verantworten und hier muss man schon aufpassen, dass man nicht das ganze System quasi so ändert, dass dann die ganze Verantwortung bei den Staatskanzleien liegt.
 
-## <a name="58-19"> Folini Christian BK   58:19
+### <a name="58-19"> Folini Christian BK   58:19
 Vielen Dank, Sebastian. Wir haben zwei Wortmeldungen. Eine im Chat und Stefan Ziegler hat die Hand erhoben. Ich gebe das Wort an Stefan Ziegler.
 
-## <a name="58-30"> Stephan Ziegler   58:30
+### <a name="58-30"> Stephan Ziegler   58:30
 Vielen Dank, Christian.  Ja, ich möchte hier Sebastians Foto unterstützen.  Ich finde, es ist eine gute Mischung.  Die E-Collecting-Plattform muss Transparenz gewährleisten.  Das kann man jetzt so machen mit der St.  Gallen, diesem Detail, das wird so gemacht, aber sie ist keine Plattform für politische Werbung.  Und was wir auch im Auge behalten sollten ist, du hast es vorhin angesprochen, Christian, diese redaktionelle Prüfung.  Bei Abstimmungen ist es so, dass die Kantonalen oder die Bundesverwaltung, die Bundeskanzlei setzt sich bei der Erarbeitung des Abstimmungsbüchleins.  Genau da wird diese politische Prüfung der Argumente gemacht.  Man muss sich mit der Eigenvorlage und auch mit den Argumenten des Kommtes auseinandersetzen und muss das von Gesetzes wegen sachlich neutral formulieren.  Aber im Stadium der Initiative ist natürlich eine solche Überprüfung, wenn sie eben nicht nur die inhaltlich materielle Überprüfung der Vorlage betrifft.  Hier noch eine Klammer, ich glaube, nicht alle Kantone kennen dieselbe umfassende inhaltliche Prüfung von Initiativbegehren wie der Kanton St.  Gallen.  Einige schon, andere aber nicht.  Das scheint mir wichtig, dass wir hier eben nicht plötzlich extrem viel prüfen müssen, sondern einfach Transparenz sicherstellen.  Wir müssen wissen, wer ist das Komitee, wer ist der Absender dieses Begehrens.  Die weiteren Punkte im Sinne von Werbung, politische Werbung zu machen für eine Vorlage, das ist meine persönliche Meinung, die ist nicht irgendwie abgesprochen oder sozusagen institutionell abgesichert würde ich so nicht gut heißen.  Vielen Dank.
 
-## <a name="1-00-16"> Folini Christian BK    1:00:16
+### <a name="1-00-16"> Folini Christian BK    1:00:16
 Vielen Dank, alors on vient dans le chat. Jje donne la parole à sami qui a une proposition.
 
-## <a name="1-00-31"> Samy A     1:00:31
+### <a name="1-00-31"> Samy A     1:00:31
 Hello, can you hear me?
 
-## <a name="1-00-33"> Folini Christian BK    1:00:33
+### <a name="1-00-33"> Folini Christian BK    1:00:33
 Oui, c'est possible de parler Français?
 
-## <a name="1-00-36"> Samy A     1:00:36
+### <a name="1-00-36"> Samy A     1:00:36
 Voilà alors moi je disais je oui, oui oui, on va parler en français. Y a juste je. pensais que le plus d'informations possibles sur la page des initiatives était un point positif pour permettre aux gens d'être informés. Et même si.
 Et garder un historique si jamais des modifications sont faites dans un dans un logbook qui soit publiquement disponible pourrait permettre au public d'être informé si jamais y a eu des modifications et que on évite tout file play.
 Voilà, c'était un peu ça.
 
-## <a name="1-01-07"> Folini Christian BK    1:01:07
+### <a name="1-01-07"> Folini Christian BK    1:01:07
 Je vois les deux directions c'est il y a un aspect de transparence et on veut donner la parole au comité d'initiative par contre ça donne des problèmes et on doit on doit le discuter - wir sind gezwungen einen Entscheid zu fällen - il faut prendre une décision, mais d'abord il faut cette discussion
 et on va lancer sur la plateforme aussi merci.
 Tu as encore quelque chose sami
 
-## <a name="1-01-42"> Samy A     1:01:42
+### <a name="1-01-42"> Samy A     1:01:42
 Non, non, ça sera tout.
 
-## <a name="1-01-43"> Folini Christian BK    1:01:43
+### <a name="1-01-43"> Folini Christian BK    1:01:43
 OK, merci beaucoup. 
 
-## <a name="1-01-45"> Folini Christian BK    1:01:45
+### <a name="1-01-45"> Folini Christian BK    1:01:45
 Wir gehen weiter. Wir kommen zum dritten Thema mit Diskussionsbedarf.
 Das nimmt die beiden vorangegangenen bisschen zusammen, stellt es einen größeren Rahmen. Es geht um die politische Ausgewogenheit. Im Statement von Moritz Zaugg kam das sehr stark durch.
 Wir könnten, es könnte eine Flut geben oder sehr schnell die Hürden für das Erreichen des Quorums könnten gesenkt werden, weil E-Collecting so einfach wird. Es dürfte Limiten geben, was der Anteil ist elektronischen Unterschriften in einem Versuchsbetrieb.
@@ -389,42 +389,42 @@ Und
 Der einfache Zugang zu dieser Plattform. Welche Aspekte haben wir für E-Collecting, politische Ausgewogenheit noch nicht auf dem Schirm?
 Wir haben eine Bemerkung im Chat. Ich glaube, es ist sinnvoll, dass Sandro Scalco das hier selber sagt. Sandro, könntest du deine Überlegungen hier teilen, bitte?
 
-## <a name="1-06-42"> Sandro Scalco    1:06:42
+### <a name="1-06-42"> Sandro Scalco    1:06:42
 Ja, hallo.  Ja, eigentlich nur eine Bemerkung, einfach ein Hinweis, dass das heutige System keineswegs perfekt und ausgewogen ist, oder es bevorzugt aktuelle Strukturen, so wie sie heute sind.  Und ob wir das mit E-Collecting so hinbringen, ist meiner Meinung nach offen.  Man muss einfach auch immer wieder berücksichtigt werden, dass sehr viel Geld heute in ganz verschiedenen Komitees etc.  eine Rolle spielt, ob eine Initiative erfolgreich ist oder nicht, oder wie gesammelt wird.  Und auch die physische Komponente, die entsprechende Leute ausschliesst und das Ganze beeinflusst, muss berücksichtigt werden.  Mehr möchte ich dazu gar nicht sagen oder eine Lösung bringen.
 
-## <a name="1-07-32"> Folini Christian BK    1:07:32
+### <a name="1-07-32"> Folini Christian BK    1:07:32
 Ja, ja, ich glaub, das bringt das genau auf den Punkt. Ja, also es ist so, also Behindertenvertreter sind stark für E-Collecting, weil sie eben sich ausgeschlossen fühlen von dem papierbasierten Sammeln.
 Ist ganz klar, da können wir da bringt die E-Collecting eine Chance, ein Potenzial, aber weitere Aspekte. Sebastian Fust meldet sich.
 Yeah.
 
-## <a name="1-07-55"> Fust Sebastian SK-DfPR    1:07:55
+### <a name="1-07-55"> Fust Sebastian SK-DfPR    1:07:55
 Ja, vielleicht einfach noch zwei Überlegungen zum Thema der Überlastung der Systeme.  Also man weiss es einfach nicht.  Es gibt keine Erfahrungswerte, es wurde noch nie getestet.  Ich denke, eben auf kantonaler Ebene ist es sehr gut, um dieses Mal zu testen, weil wir sind noch weit entfernt von einer Überlastung.  Also wir haben im Schnitt im Kanton St.  Gallen ein bis zwei Initiativen und Referenden pro Jahr.  Also da sind wir noch weit entfernt von einer Überlastung in diesem Bereich.  Das bietet sich sicher an, um hier erste Erfahrungen zu sammeln.  Und einfach generell, ich weiss nicht oder ich zweifle eigentlich daran, dass nur, weil es elektronisch möglich ist, ein Begehren zu unterzeichnen, dass das politische Interesse aller Bürgerinnen und Bürger so stark steigt.  Also ich glaube, da hat man schon das Gefühl, ja kurz, irgendwo bei einem Artikel ein Häkchen setzen und man hat unterzeichnet und das System wird überlastet.  Aber also ich zweifle daran, dass einfach das ganze politische Interesse einfach steigt, nur weil man jetzt elektronisch unterzeichnen kann.
 
-## <a name="1-09-01"> Folini Christian BK    1:09:01
+### <a name="1-09-01"> Folini Christian BK    1:09:01
 Ja, also ich glaube, das ist im Postulatsbericht als offene Frage diskutiert. Das werden wir im Versuchsbetrieb einfach genau feststellen und wir haben also wir haben den Anspruch der politischen Ausgewogenheit und wir glauben, wir haben relativ wenige Stellschrauben.
 Das tatsächlich zu beeinflussen, kann es einfach schwieriger oder einfacher machen. Ich sehe jetzt noch eine Wortmeldung von Philippe Page de Genêve,.  Philippe tu veux la parole?
 Tu es sur mute.
 
-## <a name="1-09-38"> philippe Page - Genève    1:09:38
+### <a name="1-09-38"> philippe Page - Genève    1:09:38
 Oui oui oui, merci Christian. Oui, de mon point de vue, je pense que c'est la question fondamentale du processus de e-collecting. Dès qu'on numérise un processus, on change un équilibre. C'est illusoire de penser qu'il y aura pas de changement dans l'équilibre, qu'il soit politique, économique.
 Facilité d'accès à tous ces problèmes d'inclusivité. Donc je pense, je voulais juste commenter que la numérisation du processus de récolte de signature va amener des déséquilibres et ça doit être la question fondamentale qu'on se pose avant de regarder à des.
 Aux différents aspects opérationnels et ces déséquilibres. Et c'est pas simplement par rapport au au citoyen et ses droits, c'est aussi à la structure institutionnelle en Suisse, entre les différents cantons où il y a certaines, il ne faut pas que la numérisation introduise des biais qui n'étaient pas.
 Là avant par contre, la numérisation doit amener un plus qui n'est pas dans la version papier actuelle. Donc c'était le Pour moi cette question est très importante. Il y a vraiment un processus de rethink e-collecting, si je peux me permettre un anglicisme.
 
-## <a name="1-10-50"> Folini Christian BK    1:10:50
+### <a name="1-10-50"> Folini Christian BK    1:10:50
 Merci beaucoup pour cette parole Philippe. Je crois que tu as bien décrit le potentiel et aussi le problème existant- et ça va certainement changer la situation avec l'e-collecting. Ich nehme noch Moritz Zaugg und dann gehen wir weiter.
 
-## <a name="1-11-08"> Zaugg Moritz, STA-ARP-PR    1:11:08
+### <a name="1-11-08"> Zaugg Moritz, STA-ARP-PR    1:11:08
 Ja, vielen Dank. Ich weiß, man sollte nicht die Fragen sagen, dass es falsche Fragen sind. Ich mach es jetzt trotzdem ein bisschen. Ich glaub, die Frage der politischen Ausgewogenheit ist trotzdem nicht ganz ideal, weil entscheidend ist der Zugang oder es muss.
 der Zugang muss für alle möglich sein. Wer es dann nutzt und wie man sich beteiligt, das ist dann eine Frage der Mobilisierung der entsprechenden Interessensgruppen oder Parteien et cetera, aber nicht an uns, dann irgendwie zu sagen, wir müssen jetzt schauen, dass sich da alle beteiligen.
 auch die, die, die es eigentlich gar nicht wollen, oder also es geht um den Zugang, der muss allen ermöglicht sein, aber die Beteiligung, die da darf es dann auch ein Ungleichgewicht geben, das ist ja auch jetzt schon so der Fall.
 
-## <a name="1-12-02"> Folini Christian BK    1:12:02
+### <a name="1-12-02"> Folini Christian BK    1:12:02
 Vielen Dank.
 Für diese verschiedenen Wortmeldungen, ich glaube, damit ist das Problem umrissen. Wir werden das auf der Plattform weiter diskutieren und wie ich gesagt habe, dass das Thema wird uns nicht so schnell verlassen.
 
 
-## <a name="1-02-19"> Folini Christian BK    1:02:19
+### <a name="1-02-19"> Folini Christian BK    1:02:19
 Wir gehen weiter zur nächsten Frage.
 Da werden wir jetzt etwas stärker technisch. Das ist ein Thema, das im Hackathon bearbeitet wurde. Ich stelle es Ihnen hier vor. Wir glauben, wir haben bereits eine Antwort darauf. Wir möchten aber sichergehen, dass das tatsächlich so ist.
 Es geht um den Opt-Out für Papierprozess, das ist ein technischer Begriff. Ich erkläre es Ihnen wie folgt: Jetzt laufen sämtliche Unterschriften für Volksbegehren auf Papier, neu soll es auch möglich sein, elektronisch zu unterschreiben. Das heißt, eine
@@ -453,50 +453,50 @@ Wieder zurück haben wir Wortmeldungen zum Thema. Ich schaue schnell in den Chat
 Florian Moser meldet sich.
 Ja, Florian.
 
-## <a name="1-17-48"> Florian Moser    1:17:48
+### <a name="1-17-48"> Florian Moser    1:17:48
 Ja, danke.  Bezüglich technisch machbar.  Es könnte durchaus sein, dass es hinsichtlich des Signaturgeheimnisses schon einen klaren Nachteil bringt, wenn das Opt-out nicht gemacht wird, weil die Gemeinde ja dann abgleichen muss, die physische Signatur, die sie empfangen hat, ob diese schon digital geleistet werden, ob diese schon digital geleistet wurde.  Und das muss sie beim Opt-out nicht machen.  Also es scheint hier einen klaren Nachteil zu haben, hinsichtlich des Stimmgeheimnisses.
 
-## <a name="1-18-14"> Folini Christian BK    1:18:14
+### <a name="1-18-14"> Folini Christian BK    1:18:14
 Genau das.  Jetzt bin ich nicht ganz sicher, dass du dasselbe gesagt hast, wie du im Chat geschrieben hast. Also, Opt-Out ist für dich auch einfacher?
 
-## <a name="1-18-28"> Florian Moser    1:18:28
+### <a name="1-18-28"> Florian Moser    1:18:28
 Das Opt-out scheint einen Vorteil hinsichtlich des Stimmgeheimnisses zu haben.
 
-## <a name="1-18-33"> Folini Christian BK    1:18:33
+### <a name="1-18-33"> Folini Christian BK    1:18:33
 Genau, weil wenn wir das koordinieren müssen mit Papierstimmen, dann haben wir eventuell ein Problem mit der Datensparsamkeit, sprich dem Stimmgeheimnis. Genau, ich glaub das ist das genau das Grundproblem, das vermeiden wir mit dem Opt-out.
 
-## <a name="1-18-45"> Florian Moser    1:18:45
+### <a name="1-18-45"> Florian Moser    1:18:45
 Genau, ja.
 
-## <a name="1-18-50"> Folini Christian BK    1:18:50
+### <a name="1-18-50"> Folini Christian BK    1:18:50
 Am Hackathon haben wir von zahlreichen Teams oder von sämtlichen Teams gehört. Doch es ist machbar. Wir kriegen es hin. Sankt Gallen hat eine Lösung gefunden, wie Sie es hinkriegen.
 Ich gebe weiter zu Silvan Müggler, die Hand oben.
 Ah, ganz viele Wortmeldungen, Silvan bitte.
 
-## <a name="1-19-10"> Silvan Müggler    1:19:10
+### <a name="1-19-10"> Silvan Müggler    1:19:10
 Ja, das ist aus Gemeindesicht.  Also ich habe da nicht eine abschließende Meinung.  Ich würde auch meine persönlich Meinung da mal reingeben.  Also wenn das wirklich so ein Opt-out-Prozess möglichst vermeiden, weil das ist für die Gemeinde, muss das ein Riesenaufwand sein.  Kann dann jeder kommen oder sich registrieren für Opt-out, für elektronisch oder nicht elektronisch und dann vielleicht wieder zurück.  Also das sehe ich als einen Riesenaufwand, einerseits für die Gemeinden, andererseits auch für die Stimmberechtigten.  Die müssen sich dann entscheiden.  Und ja, demokratiepolitisch finde ich das auch so ein bisschen schwierig, wenn, ja, wie man sich dann entscheiden muss, weil man kann ja mal, wie bei der Migroskass, da gibt es quasi die Kasse, wo da noch jemand physisch ist und die Selbstbedienstkasse, manchmal gehe ich zur Selbstbedienstkasse und manchmal gehe ich halt dort, wo die Person ist.  Also je nachdem, wo es mehr Leute hat halt.  Also ich glaube, die Entscheidungsfreiheit muss man dann auch, dann auch, irgendwie kann ich mir nicht vorstellen, dass das technisch nicht lösbar ist.  Es ist ja so ein Stimmgeheimnis her.  Es ist ja nicht so, dass es absolut ist jetzt.  Also jetzt ist es so, die in der Gemeinde haben, die Leute, die das prüfen, die sehen ja, Person X hat sich dafür ausgesprochen.  Also ein absolutes Stimmgeheimnis gibt es, es gibt es nicht.  Das muss es aus meiner Sicht auch nicht sein.  Das muss einfach
 möglichst nah daran sein.
 
-## <a name="1-20-41"> Folini Christian BK    1:20:41
+### <a name="1-20-41"> Folini Christian BK    1:20:41
 Ja, vielen vielen Dank, Herr Sylvan. Du stützt eigentlich genau unsere Argumentation oder also es es ist schwierig oder rechtlich staatspolitisch dieses diese Entscheid zu forcieren, das möchte man eigentlich nicht. Florian Moser hat aber zu Recht darauf hingewiesen,
 technisch ist es eine Herausforderung. Die Teams fanden, es gibt Lösungen, sämtliche fanden, es gibt eine Lösung, aber vielleicht übersehen wir etwas und da möchten wir ganz sicher gehen. Deshalb werden wir diese Frage auch auf der genauso wie gestellt
 Auf der Diskussionsplattform nochmal stellen. Ist es wirklich so, dass wir diesen Opt-out vermeiden können?
 Ich schaue noch mal kurz im Chat, ob wir noch einen weiteren Aspekt haben. Wir müssen dann aus Zeitgründen langsam weiter.
 Je prends encore Valérie Vulliez de la chancellerie d'Etat de Genève
 
-## <a name="1-21-38"> Valérie Vulliez GE    1:21:38
+### <a name="1-21-38"> Valérie Vulliez GE    1:21:38
 Oui oui merci Christian. C'est juste pour dire mais je pense vous le savez déjà. Donc nous c'est un point très important pour nous. Donc le papier et le numérique, nous on fait déjà en fait, on comptabilise déjà le nombre de signatures qu'on reçoit. Donc je crois qu'on est même allé jusqu'à une personne qui a signé 25 fois.
 Donc nous on garde qu'une fois papier mais tout est enregistré dans notre système d'information et nous notre plateforme. En fait elle va se connecter numérique et papier, c'est le même système d'information. On prendra la première signature qui viendra papier ou numérique et on prendra pas en compte les autres.
 Voilà.
 Mais après, nous, c'est plus facile parce qu'on a un registre centralisé.
 
-## <a name="1-22-15"> Folini Christian BK    1:22:15
+### <a name="1-22-15"> Folini Christian BK    1:22:15
 Merci beaucoup Valerie Vulliez.
 Wir müssen noch zum letzten Thema mit Diskussionsbedarf für den Moment weitergehen. Ich schließe das hier also ab. Im Chat kamen noch zahlreiche weitere Wortmeldungen. Ich hoffe, dass wir die dann auch übernehmen können.
 oder dass die auf der Dialogplattform diese Meinungen Beiträge auch eingegeben werden.
 
 
-## <a name="1-22-48"> Folini Christian BK    1:22:48
+### <a name="1-22-48"> Folini Christian BK    1:22:48
 Wir kommen zum fünften Thema, Diskussionsbedarf, und ich weiß nicht, wie eng sie E-Collecting verfolgen. Sicherheit und Tempo ist ein Thema. Es ist immer ein Tempo, ein Thema, Verzeihung, Sicherheit und Tempo ist immer ein Thema. Sie können
 Hochsicher arbeiten, sehr vorsichtig arbeiten und dann kommen sie nie in einen Versuchsbetrieb. Oder sie starten morgen mit dem Versuchsbetrieb und lösen Sicherheitsprobleme, wie sie auftreten.
 Konkreter bei E-Collecting können Sie erprobte Technologien verwenden.
@@ -529,30 +529,30 @@ Abschließend jetzt also hier und dann machen wir dann Pause. Gibt es Wortmeldun
 Aber vielleicht muss man sich entscheiden.
 Wir gehen noch mal zu Stefan Ziegler?
 
-## <a name="1-29-04"> Stephan Ziegler    1:29:04
+### <a name="1-29-04"> Stephan Ziegler    1:29:04
 Entschuldigung, aber das ist doch eine wichtige Frage.  Kurz, ich denke wirklich auch mit den Erfahrungen von E-Voting und ich sage das auch als Behördenvertreter, aber bei E-Collecting, so wie es aufgegleist wurde, muss hier das Tempo klar im Vordergrund stehen.  Natürlich, wir können nicht ein System bieten, oder der Bund, die Kantone, das nicht verhebt, wie man auf Schweizerdeutsch sagt, aber das Tempo, weil es wirklich um einen Versuchsbetrieb geht, Sebastian Fuss hat das vorhin ausgeführt, es geht wirklich darum, zu wissen, diese staatspolitischen Auswirkungen zu kennen und ich würde dafür plädieren, dass wir dann den Schieber eher Richtung Tempo, was nicht heisst, dass wir die Sicherheit natürlich ganz aus den Augen lassen können, aber das Tempo muss im Vordergrund stehen. 
 
 Folini Christian BK   1-29:56 
 Vielen Dank.  Gutes Statement. Ich gebe weiter zu Burkhard Stiller von der Universität Zürich. Burkhard bitte.
 
-## <a name="1-30-06"> Burkhard Stiller    1:30:06
+### <a name="1-30-06"> Burkhard Stiller    1:30:06
 Danke, Christian, ich wollte eigentlich nur unterstützen, was du vorhin gesagt hast, dass die Möglichkeit gegeben ist, durch technische Verfahren sicherzustellen, dass keine Namenslisten generiert werden, aber die Eigenschaft oder Fähigkeit, die Stimmenberechtigung einer Person dennoch geprüft werden kann.  Der Aufwand für solche Verfahren ist als hoch einzuschätzen, braucht aber in gewisser Weise vorab für alle Beteiligten in irgendeiner Form eine Schlüsselverwaltung, um die Identifikation der gewissen Merkmale auch eindeutig zuordnen zu können, weil wir als Stimmbürger explizit unterschreiben müssen, um gewisse Tätigkeiten auszuführen.  Also es geht, aber es ist nicht trivial.
 
-## <a name="1-30-53"> Folini Christian BK    1:30:53
+### <a name="1-30-53"> Folini Christian BK    1:30:53
 Vielen Dank. Ich glaube, das deckt genau unsere Einschätzung. Jetzt das Hoch, vielleicht aus Sicht der Bundeskanzlei in Klammer, aber sagen wir erheblich. Florian Moser, du hattest deine Wortmeldung, aber bist jetzt zurückgezogen.
 
-## <a name="1-31-08"> Florian Moser    1:31:08
+### <a name="1-31-08"> Florian Moser    1:31:08
 Ja, es wurde so halb beantwortet, aber ich möchte nur noch kontrastieren zu Stefan. Ja, Tempo ist gut, aber Sicherheit, es braucht ein gewisses Minimum und es ist auch etwas, was man nicht nachher gut hinzufügen kann. Jetzt beim E-Voting hat es auch sehr viel Tempo gekostet, also.
 hat das Tempo sehr viel Tempo gekostet. Die ersten Systeme mussten ja konstant überarbeitet werden und wir wissen, es ist immer noch nicht in großem Einsatz. Und das lag auch daran, dass die Systeme dann mal abgeschaltet mussten, weil es technisch nicht
 nicht verhebt hat. Und hier sind wir jetzt in einer viel besseren Position. Die Bundeskanzlei hat Erfahrung gesammelt mit der Sicherheit von E-Voting. Aus meiner Sicht sind die Anforderungen an ein E-Collecting Server vergleichbar und wir können auf diesen Erfahrungen aufbauen, damit wir nicht die gleichen Fehler noch einmal machen.
 
-## <a name="1-31-59"> Folini Christian BK    1:31:59
+### <a name="1-31-59"> Folini Christian BK    1:31:59
 OK, so und zusammenfassend würdest du sagen, besser von Beginn an richtig.
 
-## <a name="1-32-01"> Florian Moser    1:32:01
+### <a name="1-32-01"> Florian Moser    1:32:01
 Ja, also wir, wir sind an einem, wir sind an einem anderen Zeitpunkt wie noch vor 20 Jahren bei eVoting. Wir haben kryptographische Verfahren, ja.
 
-## <a name="1-32-11"> Folini Christian BK    1:32:11
+### <a name="1-32-11"> Folini Christian BK    1:32:11
 Genau, gut.
 Genau.
 Genau, ich gehe weiter zu Simon Hofer.
@@ -560,16 +560,16 @@ Simon, hörst du uns? Bist eventuell auf Mute.
 Okay, Simon scheint nicht da zu sein. Ich glaube, er hat sich.
 Noch nicht. Ah, super. Vielen Dank, Simon.
 
-## <a name="1-32-42"> Hofer Simon    1:32:42
+### <a name="1-32-42"> Hofer Simon    1:32:42
 Ja, ich spreche einfach die Sicht, das Thema Sicherheit an.  Ich bin kein Informatiker.  Ich sehe einfach als Bürger die Entwicklungen, dass Grosskonzerne, dass Regierungen gehackt wurden, dass ständig Daten wieder irgendwo ein Leck auftaucht.  Und da habe ich einfach das gewisse Sorgen-Thema, Stichwort Man in the Middle, wenn der Stimmbürger, es geht vor allem dann beim E-Voting, aber vielleicht auch beim E-Collecting, dass jemand in der Mitte die Stimme verändert und beide Parteien nicht sehen, dass die Stimme verändert wurde durch eine Drittperson in der Mitte.
 
-## <a name="1-33-20"> Folini Christian BK    1:33:20
+### <a name="1-33-20"> Folini Christian BK    1:33:20
 Ja, ganz klar, ganz klar.
 
-## <a name="1-33-22"> Hofer Simon    1:33:22
+### <a name="1-33-22"> Hofer Simon    1:33:22
 Und das wäre aus staatspolitischer Sicht natürlich verheerend für unsere Demokratie oder wenn wir über etwas abstimmen, das hoch sensibel ist, ich nehme jetzt ein Beispiel über irgendwelche, ich weiß doch auch nicht, Kampfschätze, dann hat natürlich die Firma, die das anbietet, ein Interesse daran, dass das Stimmbürger dann auch annimmt, weil es hier um sehr viel Geld dann auch geht, oder?
 
-## <a name="1-33-48"> Folini Christian BK    1:33:48
+### <a name="1-33-48"> Folini Christian BK    1:33:48
 Ja genau. Du legst den Wert genau auf den richtigen Punkt. Deshalb ist dieses Thema so wichtig.
 Vielen Dank für diese Wortmeldung. Wir haben jetzt noch zahlreiche Wortmeldungen, sind aber bereits mehr als 10 Minuten im Verzug. Das heißt, hier gibt es auf jeden Fall Diskussionsbedarf. Also, ich freue mich jetzt, wir haben bei allen 5 Fragen rege Beteiligung gesehen.
 Das bestätigt unseren Eindruck, dass bei diesen Fragen gibt es viel zu diskutieren. Deshalb nehmen wir die auf die Dialogplattform und hoffen, dass wir die Wortmeldungen, die wir jetzt hier nicht berücksichtigen können, dann auf der Dialogplattform auch haben, dasselbe mit.
@@ -579,7 +579,7 @@ Geben wir uns 8 Minuten Pause bis 10-45 Uhr auf Affairs. Die ist auch Garon Seg 
 Vielen Dank.
 
 
-## <a name="1-34-57"> Folini Christian BK    1:34:57
+### <a name="1-34-57"> Folini Christian BK    1:34:57
 Voila, en continue la séssion. Wir fahren weiter.
 Wir kommen zum Bild mit der dritten Kerze: 'Weihnachten rückt näher'. Sie sehen, was zum Schluss unter dem Christbaum stehen wird. Ich stelle Ihnen jetzt die Lösungsvorschläge der Teams des Hackathons vor.
 Je vais vous présenter les  differents solutoins trouvé our propose lorsque du Hackathon. On a discuté pendent Novembre, début Décembre aves tous les teams, pour vraiment comprendres toutes cettes propositions.Vous avez reçu avec le lien une bref déscription de tous les 12 teams. Wir gehen jetzt noch etwas weiter. Nous allons creuser un peu plus profond. Avec des informations additionelles.
