@@ -29,7 +29,8 @@ block
     columns 4
     t1["Parameter"]
     t2["Ausprägungen"]:3
-    d["Erfassung papier-
+    d["Parameter 1.1
+      Erfassung papier-
       basierter Unterschriften
       im E-Collecting System"]
     a1["Ausprägung 1:
